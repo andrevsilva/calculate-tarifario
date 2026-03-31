@@ -1,0 +1,22 @@
+{
+  "title": "Calculadora de Tarifas",
+  "selectLanguage": "Seleccionar idioma",
+  "calculate": "Calcular precio de la estadía",
+  "errorPastDate": "La fecha de entrada no puede ser en el pasado",
+  "selectAccommodation": "Seleccione el alojamiento",
+  "nights": "Noches",
+  "daily": "Diarias",
+  "seeDetails": "Ver detalles",
+  "details": "Detalles de la estancia",
+  "close": "Cerrar",
+  "cleaning": "Limpieza",
+  "extra": "Extra por huésped",
+  "extraGuestInfo": "Los adultos adicionales pagan R$50 por noche.",
+  "weekendExtra": "Recargo de fin de semana",
+  "total": "Total",
+  "discount": "Descuento",
+  "capacity": "Capacidad Máxima: {{count}} personas",
+  "dailyRate": "Tarifa diaria: ${{rate}}",
+  "errorInvalidDate": "La salida debe ser después del check-in",
+  "errorMinNights": "Mínimo de {{count}} noches"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Rate Calculator",
+  "selectLanguage": "Select Language",
+  "calculate": "Calculate stay price",
+  "errorPastDate": "Check-in date cannot be in the past",
+  "selectAccommodation": "Select accommodation",
+  "nights": "Nights",
+  "daily": "Daily rate",
+  "seeDetails": "See details",
+  "details": "Stay details",
+  "close": "Close",
+  "cleaning": "Cleaning fee",
+  "extra": "Extra guest",
+  "weekendExtra": "Weekend surcharge",
+  "extraGuestInfo": "Extra adults are charged R$50 per night.",
+  "discount": "Discount",
+  "total": "Total",
+  "capacity": "Maximum Capacity: {{count}} people",
+  "dailyRate": "Daily rate: ${{rate}}",
+  "errorInvalidDate": "Check-out must be after check-in",
+  "errorMinNights": "Minimum of {{count}} nights"
+}

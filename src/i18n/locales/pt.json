@@ -1,0 +1,22 @@
+{
+  "title": "Calculadora de Tarifário",
+  "selectLanguage": "Selecione o idioma",
+  "calculate": "Calcular valor da estadia",
+  "errorPastDate": "A data de check-in não pode ser no passado",
+  "selectAccommodation": "Selecione a acomodação",
+  "nights": "Noites",
+  "daily": "Diárias",
+  "seeDetails": "Ver detalhes",
+  "details": "Detalhes da estadia",
+  "close": "Fechar",
+  "cleaning": "Limpeza",
+  "extraGuestInfo": "Adultos acima da capacidade pagam R$ 50 por noite.",
+  "extra": "Extra adulto",
+  "weekendExtra": "Acréscimo fim de semana",
+  "discount": "Desconto",
+  "total": "Total",
+  "capacity": "Capacidade Maxima: {{count}} pessoas",
+  "dailyRate": "Diária: R$ {{rate}}",
+  "errorInvalidDate": "Check-out deve ser depois do check-in",
+  "errorMinNights": "Mínimo de {{count}} noites"
+}
