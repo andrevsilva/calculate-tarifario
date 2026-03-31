@@ -56,8 +56,13 @@ npm install
 ```
 
 Inicie o backend fake (json-server) para servir o accommodations.json:
+
 ```bash
-npx json-server --watch accommodations.json --port 3001
+cd mock-api
+```
+
+```bash
+npx json-server --watch db.json --port 3001
 ```
 
 Inicie o frontend:
