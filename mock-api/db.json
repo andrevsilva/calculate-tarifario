@@ -1,0 +1,20 @@
+{
+  "accommodations": [
+    {
+      "id": "suite",
+      "name": "Suíte Jardim",
+      "daily_rate": 300,
+      "min_nights": 2,
+      "cleaning_fee": 80,
+      "capacity": 2
+    },
+    {
+      "id": "chale",
+      "name": "Chalé Família",
+      "daily_rate": 450,
+      "min_nights": 2,
+      "cleaning_fee": 100,
+      "capacity": 4
+    }
+  ]
+}
