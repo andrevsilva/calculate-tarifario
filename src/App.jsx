@@ -26,8 +26,6 @@ function App() {
 
   const [result, setResult] = useState(null)
 
-  console.log('resultado', result)
-
   function handleFormChange(updatedForm) {
     setForm(updatedForm)
     setResult(null)
@@ -53,7 +51,7 @@ function App() {
             loading={loading}
           />
 
-          {result && <Result result={result.data} />}
+          {result && <Result result={result} />}
         </div>
       </div>
     </>

@@ -1,0 +1,39 @@
+.cardAccommodation {
+  margin-top: 20px;
+  padding: 16px;
+  border-radius: 12px;
+  background: #f5f7fa;
+}
+
+.capacity {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tooltipIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.tooltipIconImage {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.tooltipBox {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  background: #333;
+  color: #fff;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  width: 220px;
+  z-index: 10;
+}
