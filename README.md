@@ -42,7 +42,7 @@ Regras gerais:
 Clone o repositório:
 
 ```bash
-git clone git@github.com:andrevsilva/calculate-tarifario.git
+git clone https://github.com/andrevsilva/calculate-tarifario.git
 ```
 
 Vá ate o diretorio correto:
